@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="UnitTestsSolution" />
+        <module name="TDDStarter" />
+        <module name="AssessmentTestExample1" />
+        <module name="AssessmentTest1" />
+        <module name="AssessmentTest2" />
+        <module name="TDDSolution1" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
